@@ -1,4 +1,4 @@
-# JavaScript Object Notation
+<h1 align="center">JavaScript Object Notation</h1>
 
  1. Создать внешний репозиторий c названием JSON - `Github Аккаунт в вебе` > _вкладка_ `Repositories` > _кнопка_ `New`
  2. Клонировать репозиторий JSON на локальный компьютер - `git clone https://github.com/XXXXX/JSON.git`
