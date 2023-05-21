@@ -8,9 +8,9 @@
   ],
   "title": "The text hasn't been translated to EN on the 'About us' page",
   "stepsToReproduce": [
-    "step 1": "Navigate to site.com,
-    "step 2": "Click menu item 'About us',
-    "step 3": "Select EN language,
+    "step 1": "Navigate to site.com",
+    "step 2": "Click menu item 'About us'",
+    "step 3": "Select EN language",
   ]
   "actualResult": "The text has been translated to EN",
   "expectedResult": "The text hasn't been translated to EN",
