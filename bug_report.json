@@ -1,1 +1,19 @@
-
+{
+  "id": 1,
+  "severity": "minor",
+  "priority": "low",
+  "environment": [
+  "Windows 10 home, Chrome 112",
+  "iPhone XR, IOS 16.5"
+  ],
+  "title": "The text hasn't been translated to EN on the 'About us' page",
+  "stepsToReproduce": [
+    "step 1": "Navigate to site.com,
+    "step 2": "Click menu item 'About us',
+    "step 3": "Select EN language,
+  ]
+  "actualResult": "The text has been translated to EN",
+  "expectedResult": "The text hasn't been translated to EN",
+  "attachments": "*link to the video*",
+  "author": "Poor tester"
+}
