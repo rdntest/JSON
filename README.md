@@ -7,7 +7,7 @@
  5. Закоммитить файл - `git commit -m 'add new.json'`
  6. Отправить файл на внешний GitHub репозиторий - `git push`
  7. Отредактировать содержание файла “new.json” - написать информацию о себе (ФИО, возраст, количество домашних животных, будущая желаемая зарплата). Всё написать в формате JSON - `vim new.json`
-```
+```JSON
 {
 	"firstname": "Dmitry",
 	"lastname": "Romanushkov",
@@ -19,7 +19,7 @@
  8. Отправить изменения на внешний репозиторий - `git commit -am 'update new.json'` > `git push`
  9. Создать файл preferences.json - `vim preferences.json`
  10. В файл preferences.json добавить информацию о своих предпочтениях (Любимый фильм, любимый сериал, любимая еда, любимое время года, сторона которую хотели бы посетить) в формате JSON.
-```
+```JSON
 {
 	"favoriteFilm": "The Lord Of The Rings",
 	"favoriteSerial": "GameOfThrones",
@@ -29,7 +29,7 @@
 }
 ```
  11. Создать файл skills.json добавить информацию о скиллах которые будут изучены на курсе в формате JSON - `vim skills.json`
-```
+```JSON
 {
 	"skills": [
 		"Software testing theory",
@@ -51,7 +51,7 @@
  13. На веб интерфейсе создать файл bug_report.json - `Github Аккаунт в вебе` > `Add file` > `Create new file`
  14. Сделать Commit changes (сохранить) изменения на веб интерфейсе.
  15. На веб интерфейсе модифицировать файл bug_report.json, добавить баг репорт в формате JSON.
-```
+```JSON
 {
   "id": 1,
   "severity": "minor",
